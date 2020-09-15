@@ -14,8 +14,6 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
-
 1. Hate
 2. This
 3. Shit
@@ -24,8 +22,15 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+1. Fuck
+2. This
+3. Shit
+   1. Royally
+   2. Absolutely
 
 <br>
-
-{% include 05-emphasis.md %}
+1. Fuck
+2. This
+3. Shit
+   1. Royally
+   2. Absolutely
