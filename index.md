@@ -6,8 +6,6 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
-
 1. Fuck
 2. This
 3. Shit
