@@ -2,13 +2,30 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+<br>
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 <br>
 
-{% include 02-image.md %}
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 <br>
 
-{% include 03-links.md %}
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
+<br>
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
